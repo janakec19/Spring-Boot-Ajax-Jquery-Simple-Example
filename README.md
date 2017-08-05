@@ -7,4 +7,4 @@
 <li>Spring 4.3.6.RELEASE</li>
 <li>Maven 3</li>
 <li>jQuery</li>
-Bootstrap 3
+<li>Bootstrap 3</li>
