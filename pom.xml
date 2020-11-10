@@ -6,7 +6,7 @@
 
     <groupId>com.solehin</groupId>
     <artifactId>spring-boot-ajax-example</artifactId>
-    <packaging>jar</packaging>
+    <packaging>war</packaging>
     <version>1.0</version>
 
     <parent>
